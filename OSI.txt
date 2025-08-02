@@ -1,0 +1,19 @@
+
+╭━━━┳━━━┳━━━┳━╮╱╭╮╭━━━╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━━┳━╮╱╭┳━━━┳━━━╮
+┃╭━╮┃╭━╮┃╭━━┫┃╰╮┃┃┃╭━╮┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰┫┣┫┃╰╮┃┃╭━━┫╭━╮┃
+┃┃╱┃┃╰━╯┃╰━━┫╭╮╰╯┃┃╰━━┳━━┳╮╭┳━┳━━┳━━╮╱┃┃┃╭╮╰╯┃╰━━┫┃╱┃┃
+┃┃╱┃┃╭━━┫╭━━┫┃╰╮┃┃╰━━╮┃╭╮┃┃┃┃╭┫╭━┫┃━┫╱┃┃┃┃╰╮┃┃╭━━┫┃╱┃┃
+┃╰━╯┃┃╱╱┃╰━━┫┃╱┃┃┃┃╰━╯┃╰╯┃╰╯┃┃┃╰━┫┃━┫╭┫┣┫┃╱┃┃┃┃╱╱┃╰━╯┃
+╰━━━┻╯╱╱╰━━━┻╯╱╰━╯╰━━━┻━━┻━━┻╯╰━━┻━━╯╰━━┻╯╱╰━┻╯╱╱╰━━━╯
+
+*HOW IS IT OPEN SOURCE*
+	All code is avalible on github:
+	Anyone can edit and change code as they please
+	All info on how to compile the .bat to exe including links to battoexe software
+
+*HOW TO EDIT*
+	Download OSI Version (includes original .bat, logo.ico, "BatToExe.txt") from github:
+	Open "BatToExe.txt" and click the link to the Bat to Exe software.
+	Install software
+	Open the software and paste the code or load the .bat.
+	File, Build, look at "BatToExe.txt" to fill out the build settings.
